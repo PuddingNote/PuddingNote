@@ -1,4 +1,4 @@
-# HAN
+# Han ChanHeum
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:7FFF00,100:E27FFF&height=180&text=Hello-nl-&desc=I'm%20ChanHeum%20Han&animation=fadeIn&fontSize=55&fontColor=000000&fontAlign=80&descSize=20&descColor=000000&descAlign=82.5&descAlignY=45&rotate=11.5)
 
@@ -7,9 +7,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPuddingNote&count_bg=%2339C8FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Watch&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## :no_mouth:Introduction
+안녕하세요! 클라이언트와 서버 모두 관심있는 신입개발자 한찬흠입니다!! <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddingNote&langs_count=8)](https://github.com/PuddingNote/github-readme-stats)
 <!--![Pudding's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuddingNote&show_icons=true&theme=merko)-->
-안녕하세요! 클라이언트와 서버 모두 관심있는 신입개발자 입니다!!
 
 ## :star:Skills
 ### :book: Platforms & Languages
@@ -33,19 +33,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=black)
-<br>
-<br>
+<br><br>
 
 ## :mailbox_with_mail: Contacts
 [![Tistory](http://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&link=https://onedark-gamelife.tistory.com/)](https://onedark-gamelife.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gkscksgma14@gmail.com)](mailto:gkscksgma14@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:gkscksgma14@naver.com)](mailto:gkscksgma141@naver.com)
-<br>
-<br>
+<br><br>
 
 ## :fire: Algorithm Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkscksgma14)](https://solved.ac/gkscksgma14/)<br>
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-
+<br><br>
 
 </div>
