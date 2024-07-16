@@ -32,7 +32,6 @@
 ### :pencil2: Studing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=black)
 <br><br>
 
 ## :mailbox_with_mail: Contacts
