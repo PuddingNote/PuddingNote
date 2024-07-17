@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddingNote&langs_count=8)](https://github.com/PuddingNote/github-readme-stats)
 <!--![Pudding's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuddingNote&show_icons=true&theme=merko)-->
 
-## :star:Skills
+## :star:Skills & :pencil2:Studying
 ### :book: Platforms & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -20,17 +20,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <br>
 
-### :book: Tools
+### :book: Tools & OS
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-9400D3.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-512BD4.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-<br>
-
-### :pencil2: Studying
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black)
 <br><br>
 
