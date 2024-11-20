@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPuddingNote&count_bg=%2339C8FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Watch&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## :no_mouth:Introduction
-안녕하세요! 클라이언트와 서버 모두 관심있는 신입개발자 한찬흠입니다!! <br><br>
+안녕하세요! 게임 개발에 관심있는 신입개발자 한찬흠입니다!! <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddingNote&langs_count=8)](https://github.com/PuddingNote/github-readme-stats)
 <!--![Pudding's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuddingNote&show_icons=true&theme=merko)-->
 
