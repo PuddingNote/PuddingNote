@@ -1,21 +1,26 @@
-# Han ChanHeum
+# ChanHeum's hub
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:7FFF00,100:E27FFF&height=180&text=Hello-nl-&desc=I'm%20ChanHeum%20Han&animation=fadeIn&fontSize=55&fontColor=000000&fontAlign=80&descSize=20&descColor=000000&descAlign=82.5&descAlignY=45&rotate=11.5)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:7FFF00,100:E27FFF&height=180&text=Hello-nl-&desc=I'm%20ChanHeum%20Han&animation=fadeIn&fontSize=55&fontColor=000000&fontAlign=60&descSize=20&descColor=000000&descAlign=82.5&descAlignY=45&rotate=11.5)
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPuddingNote&count_bg=%2339C8FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Watch&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## :no_mouth:Introduction
-안녕하세요! 게임 개발에 관심있는 신입개발자 한찬흠입니다!! <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddingNote&langs_count=8)](https://github.com/PuddingNote/github-readme-stats)
+:pencil: 현재 공부중인 게임 클라이언트 주니어 개발자입니다. <br><br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddingNote&langs_count=8)](https://github.com/PuddingNote/github-readme-stats)-->
 <!--![Pudding's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuddingNote&show_icons=true&theme=merko)-->
 
-## :star:Skills & :pencil2:Studying
+## :mailbox_with_mail: Contacts
+<!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:heumgamedev@gmail.com)](mailto:heumgamedev@gmail.com)-->
+Email : heumgamedev@gmail.com
+<!--Protfolio : Notion Link-->
+<br><br>
+
+<!--## :star:Skills & :pencil2:Studying-->
+## :star:Skills
 ### :book: Platforms & Languages
+![C#](https://img.shields.io/badge/Csharp-A8B9CC.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/Csharp-A8B9CC.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 <br>
 
 ### :book: Tools & OS
@@ -25,15 +30,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-512BD4.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 <br><br>
 
-## :mailbox_with_mail: Contacts
-[![Tistory](http://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&link=https://onedark-gamelife.tistory.com/)](https://onedark-gamelife.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gkscksgma14@gmail.com)](mailto:gkscksgma14@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:gkscksgma14@naver.com)](mailto:gkscksgma141@naver.com)
-<br><br>
-
+<!--
 ## :fire: Algorithm Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkscksgma14)](https://solved.ac/gkscksgma14/)<br>
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 <br><br>
+-->
 
 </div>
