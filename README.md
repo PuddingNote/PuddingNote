@@ -4,7 +4,7 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=blue)-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello-nl-&desc=I'm%20ChanHeum%20Han&fontSize=50&fontAlignY=35&animation=twinkling&text-color=green&descSize=30&descColor=000000&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello-nl-&desc=I'm%20ChanHeum%20Han&fontSize=50&fontAlignY=35&animation=twinkling&text-color=black&descSize=30&descColor=000000&descAlignY=50)
 
 
 <div align=center>
