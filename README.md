@@ -13,7 +13,7 @@
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:heumgamedev@gmail.com)](mailto:heumgamedev@gmail.com)-->
 Email : heumgamedev@gmail.com
 <!--Protfolio : Notion Link-->
-<br><br>
+<br>
 
 <!--## :star:Skills & :pencil2:Studying-->
 ## :star:Skills
@@ -28,13 +28,13 @@ Email : heumgamedev@gmail.com
 ![Github](https://img.shields.io/badge/Github-9400D3.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-512BD4.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-<br><br>
+<br>
 
 <!--
 ## :fire: Algorithm Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkscksgma14)](https://solved.ac/gkscksgma14/)<br>
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-<br><br>
+<br>
 -->
 
 </div>
