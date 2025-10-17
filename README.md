@@ -28,7 +28,7 @@ Email : heumgamedev@gmail.com
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 <br>
 
-### :book: Tools & OS
+### :book: Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-9400D3.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
