@@ -10,7 +10,7 @@
 <div align=center>
 
 ## :no_mouth:Introduction
-:pencil: 현재 공부중인 게임 클라이언트 주니어 개발자입니다. <br><br>
+:pencil: 현재 공부중인 게임 클라이언트 주니어 개발자 한찬흠입니다. <br><br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddingNote&langs_count=8)](https://github.com/PuddingNote/github-readme-stats)-->
 <!--![Pudding's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuddingNote&show_icons=true&theme=merko)-->
 
